@@ -1,2 +1,4 @@
 # Project_1
-ai in advertisement
+Basic Bank management System
+
+Using Python GUI
